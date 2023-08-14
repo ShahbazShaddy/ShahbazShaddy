@@ -1,6 +1,5 @@
 <div align="center">
     <h1> About Me 👨‍💻🌐</h1>
-    <img src="https://your-image-url-here" alt="Your Name" width="200px" height="200px" style="border-radius: 50%;" />
     <p>Hey there! I'm a Computer Science student fascinated by the digital universe. From coding in C++, C#, and Python to crafting sleek experiences in .NET and web development, I'm on a journey of tech exploration!</p>
     <p>🚀 Languages: Proficient in C++, C#, and Python, each offering unique powers to solve challenges.</p>
     <p>💼 .NET Developer: I dive into the Microsoft ecosystem, building web apps and services that seamlessly sync with diverse platforms.</p>
