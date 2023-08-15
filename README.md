@@ -1,12 +1,12 @@
 <div align="center">
     <h1> About Me 👨‍💻🌐</h1>
     <p>Hey there! I'm a Computer Science student fascinated by the digital universe. From coding in C++, C#, and Python to crafting sleek experiences in .NET and web development, I'm on a journey of tech exploration!</p>
-    <p>🚀 Languages: Proficient in C++, C#, and Python, each offering unique powers to solve challenges.</p>
-    <p>💼 .NET Developer: I dive into the Microsoft ecosystem, building web apps and services that seamlessly sync with diverse platforms.</p>
-    <p>🌐 Web Wizardry: With HTML, CSS, and JavaScript as my allies, I create captivating web interfaces that users adore.</p>
-    <p>🔍 Future-Ready: Eager to embrace AI, cloud computing, and cybersecurity. The evolving tech sphere keeps me on my toes!</p>
-    <p>🤝 Collaborator: Passionate about teamwork, hackathons, and open-source ventures. Together, we can reshape the tech world!</p>
-    <p>🎮 Beyond the Screen: When not coding, you'll find me gaming, exploring nature, or experimenting in the kitchen.</p>
+    <p>🚀 <b>Languages:</b> Proficient in C++, C#, and Python, each offering unique powers to solve challenges.</p>
+    <p>💼 <b>.NET Developer:</b> I dive into the Microsoft ecosystem, building web apps and services that seamlessly sync with diverse platforms.</p>
+    <p>🌐 <b>Web Wizardry:</b> With HTML, CSS, and JavaScript as my allies, I create captivating web interfaces that users adore.</p>
+    <p>🔍 <b>Future-Ready:</b> Eager to embrace AI, cloud computing, and cybersecurity. The evolving tech sphere keeps me on my toes!</p>
+    <p>🤝 <b>Collaborator:</b> Passionate about teamwork, hackathons, and open-source ventures. Together, we can reshape the tech world!</p>
+    <p>🎮 <b>Beyond the Screen:</b> When not coding, you'll find me gaming, exploring nature, or experimenting in the kitchen.</p>
     <p>Excited to see where these lines of code lead me next! Thanks for dropping by! 🌟👋</p>
 </div>
 
@@ -32,6 +32,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShahbazShaddy&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
