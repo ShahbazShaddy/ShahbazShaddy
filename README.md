@@ -12,4 +12,7 @@ I’m a passionate Computer Science undergraduate at the **University of Enginee
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShahbazShaddy&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏅 Holopin badges
+[![An image of @shahbazshaddy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shahbazshaddy)](https://holopin.io/@shahbazshaddy)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
