@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m a passionate Computer Science undergraduate at the **[University of Engineering and Technology (UET), Lahore](https://uet.edu.pk/)**, set to graduate in *2026*.  
 My focus lies in advancing technology, particularly in Artificial Intelligence.  
-I have hands-on experience as a **Generative AI Intern at [Xavor Corporation](https://www.xavor.com/)** and as a **Beta Microsoft Learn Student Ambassador**, where I cultivated tech communities and supported students in developing critical skills.  
+I have hands-on experience as a **Generative AI Intern at [Xavor Corporation](https://www.xavor.com/)** and as a **[Beta Microsoft Learn Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/93058513-bb21-408f-a1a2-458f4d309b65)**, where I cultivated tech communities and supported students in developing critical skills.  
 As a **Teaching Assistant** at UET, I assist students in Object-Oriented Programming and Programming Fundamentals.  
 I’m also the co-founder of **[Cipher Craft](https://www.ciphercraft.club/)**, Pakistan’s premier hackathon - *bringing together over 300 students to foster innovation.*  
 Feel free to explore my repositories, and let's connect!
