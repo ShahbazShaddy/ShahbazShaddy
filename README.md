@@ -21,4 +21,4 @@ Feel free to explore my repositories, and let's connect!
 ## 🏅 Holopin badges
 [![An image of @shahbazshaddy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shahbazshaddy)](https://holopin.io/@shahbazshaddy)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ). -->
