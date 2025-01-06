@@ -18,7 +18,7 @@ Feel free to explore my repositories, and let's connect!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShahbazShaddy&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-## 🏅 Holopin badges
+## 🏅 Hacktoberfest'24 Badges
 [![An image of @shahbazshaddy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shahbazshaddy)](https://holopin.io/@shahbazshaddy)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
